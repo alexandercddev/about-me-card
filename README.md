@@ -20,7 +20,7 @@ If you find a bug, kindly open an issue [here](https://github.com/alexandercddev
 
 - [REACTJS](https://reactjs.org/)
 - [SASS](https://sass-lang.com/)
-- [FRONTEND-MENTOR](https://www.frontendmentor.io/challenges/)
+- [MGPanel](https://www.instagram.com/mgpanel.cms/)
 
 
 © [Alexander Chi ](https://alexandercd.dev/)
